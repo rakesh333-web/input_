@@ -1,0 +1,22 @@
+Having about 3+ years of IT Industry experience with good Experience in 
+Implementation of Java Platform, Software Development Life Cycle (SDLC) Phases 
+like Requirement Analysis, Implementation, Testing in Banking Domain. 
+● Good understanding of various software development methodologies, software 
+development life cycle and quality processes. 
+● Strong hands-on experience in developing the API using Java/J2EE technologies such as 
+CoreJava with OOPs, Java Beans, Spring Boot, Spring MVC. 
+● Very Proficient in working with Object Oriented Programming (OOP) Concepts like 
+Encapsulation, Inheritance, Polymorphism, MicroservicesRESTFul (Representation 
+State Transfer). 
+● Experienced in developing Spring Boot Rest API. 
+● Very Strong Experience in using version control systems/Tools such as GIT, Github. 
+● Very Good Experience in using Deployment Tools like Jenkins, XLRelease, ECP Console. 
+● Experienced in developing Spring MVC Rest API. 
+● Good familiarity in working with Query Languages like SQL. 
+● Strong working experience on IDEs like Eclipse, Intellij IDEA for developing enterprise 
+applications. 
+● Excellent critical and analytical thinking, problem solving, quick learning, interpersonal and 
+client interfacing skills. 
+● Involved in client discussions about requirements discussion and provide solutions to them. 
+● Experienced in dependency management like maven. 
+● Worked independently and also as a team in the project. 
