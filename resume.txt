@@ -1,0 +1,21 @@
+With over 1 year of experience in the IT industry, I have a strong focus on the implementation of Generative AI applications and the Software Development Life Cycle (SDLC), including requirement analysis and implementation.
+
+Proficient in various software development methodologies, quality processes, and best practices.
+
+Extensive experience in building Generative AI applications and fine-tuning large language models using LoRA and QLoRA techniques.
+
+Hands-on experience implementing vector databases such as ChromaDB, Qdrant, and Pinecone for Retrieval-Augmented Generation (RAG).
+
+Highly proficient in machine learning algorithms, both supervised and unsupervised, with practical experience in exploratory data analysis (EDA) and a solid understanding of deep learning models using the PyTorch framework.
+
+Experienced in utilizing Azure OpenAI services and integrating models into applications for enhanced functionality, as well as fine-tuning Azure OpenAI models for code generation tasks with custom datasets by wizard technique.
+
+Solid experience with version control systems and tools such as Git and GitHub, ensuring effective collaboration and code management.
+
+Extensive experience using Azure cloud services for deployments and resource creation, optimizing performance and scalability.
+
+Excellent critical and analytical thinking, problem-solving abilities, and quick learning capabilities, complemented by strong interpersonal and client interfacing skills.
+
+Actively involved in client discussions to understand requirements and provide effective, tailored solutions.
+
+Proven ability to work independently and collaboratively as part of a team, contributing to successful project outcomes.
